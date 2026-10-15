@@ -1,7 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 520">
-<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#141e30"/><stop offset="1" stop-color="#243b55"/></linearGradient></defs>
-<rect width="700" height="520" rx="24" fill="url(#g)"/><circle cx="620" cy="100" r="55" fill="#e8c547"/><path d="M0 350 L180 160 L310 340 L440 190 L700 400 V520 H0Z" fill="#141e30" opacity=".8"/><path d="M0 420 Q170 330 350 430 T700 410 V520 H0Z" fill="#243b55"/>
-<path d="M310 520 L350 290 L390 520Z" fill="#101629" opacity=".8"/>
-<circle cx="350" cy="245" r="42" fill="#e8c547" opacity=".95"/><path d="M305 300 Q350 270 395 300 L420 430 H280Z" fill="#111827" opacity=".9"/>
-<text x="350" y="475" text-anchor="middle" font-family="Georgia,serif" font-size="25" fill="#fff">The Empty Classroom</text>
-</svg>

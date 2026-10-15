@@ -1,7 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 520">
-<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#134e5e"/><stop offset="1" stop-color="#71b280"/></linearGradient></defs>
-<rect width="700" height="520" rx="24" fill="url(#g)"/><path d="M0 370 Q160 270 340 370 T700 360 V520 H0Z" fill="#71b280"/><path d="M0 430 Q180 340 350 430 T700 420 V520 H0Z" fill="#134e5e"/><circle cx="160" cy="140" r="62" fill="#f9d976" opacity=".85"/>
-<path d="M310 520 L350 290 L390 520Z" fill="#101629" opacity=".8"/>
-<circle cx="350" cy="245" r="42" fill="#f9d976" opacity=".95"/><path d="M305 300 Q350 270 395 300 L420 430 H280Z" fill="#111827" opacity=".9"/>
-<text x="350" y="475" text-anchor="middle" font-family="Georgia,serif" font-size="25" fill="#fff">The Day the Internet Fell</text>
-</svg>
